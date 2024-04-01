@@ -1,0 +1,1 @@
+Created with Vite + React + TypeScript + TailwindCSS + Framer Motion + Shadcn
